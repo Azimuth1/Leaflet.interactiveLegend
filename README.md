@@ -10,7 +10,7 @@ Must haves:
 * Layer control with legend built in so you can tell which layer you're controlling at a glance
 * User controlled layer ordering that sticks
 * Change layer display properties on the fly - color, line thickness, transparency, etc.
-* Disabling of layer modification capabilities by developer
+* Optional enforcing of layer styling for themed sites
 * Naming/Renaming of layers
 * Removing layers
 * Show/hide layers
