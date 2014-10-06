@@ -1,4 +1,4 @@
-Leaflet.legend.interactive
+Leaflet.interactiveLegend
 ==========================
 
 A layer and legend control for the Leaflet web mapping API
